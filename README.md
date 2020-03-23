@@ -17,3 +17,7 @@ Being able to accurately detect COVID-19 with 100% accuracy is great however, th
 There's simply not enough data to train a perfect COVID-19 detector yet there's a large number of patients in hospitals and their data can lead to a nearly perfect, more accurate detector. 
 
 Data is always beautiful and precious!
+
+
+# LICENSE
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">COVID-19 Detector made with love</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Ahmad Hassan</span> licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>. 
